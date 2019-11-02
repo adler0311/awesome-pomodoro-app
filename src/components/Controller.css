@@ -1,0 +1,23 @@
+.controller-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.control-button {
+  border: 1px solid white;
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10%;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.control-button:hover {
+  cursor: pointer;
+  background-color: #6099ff;
+}

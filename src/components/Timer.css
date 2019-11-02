@@ -1,0 +1,23 @@
+.timer-container {
+  display: inline-block;
+  margin: 0 auto;
+  width: 280px;
+  height: 280px;
+  margin-top: 25px;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid white;
+  border-radius: 50%;
+}
+
+.timer-title {
+  font-size: 1.5rem;
+}
+
+.timer-clock {
+  font-size: 5rem;
+  font-weight: 500;
+}
