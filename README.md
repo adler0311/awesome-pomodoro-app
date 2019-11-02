@@ -14,4 +14,4 @@
 
 ### 프로젝트 사진
 
-![projectImage](./public/pomodoro-capture.png)
+![projectImage](./public/pomodoro-capture.PNG)
