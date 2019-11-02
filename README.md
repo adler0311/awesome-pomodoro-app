@@ -11,3 +11,7 @@
 ### 프로젝트 시작
 
 `npm start`
+
+### 프로젝트 사진
+
+![projectImage](./public/pomodoro-capture.png)
